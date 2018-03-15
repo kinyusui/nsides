@@ -23,5 +23,5 @@ job_api/example/venv/
 node_modules
 .eslintrc
 .vscode
-
+bundle.js
 *#*#
